@@ -27,10 +27,10 @@ $recipes["GoodOldFashionedPancakes"]["directions"] = Array();
       $recipes["GoodOldFashionedPancakes"]["directions"][] = "In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth..";
       $recipes["GoodOldFashionedPancakes"]["directions"][] = "Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.";
 
-$recipes["MushroomSalsaChili"][] = Array();
-$recipes["MushroomSalsaChili"]["ingredients"][] = Array();
-$recipes["MushroomSalsaChili"]["equipment"][] = Array();
-$recipes["MushroomSalsaChili"]["directions"][] = Array();
+$recipes["MushroomSalsaChili"] = Array();
+$recipes["MushroomSalsaChili"]["ingredients"] = Array();
+$recipes["MushroomSalsaChili"]["equipment"] = Array();
+$recipes["MushroomSalsaChili"]["directions"] = Array();
   
   $recipes["MushroomSalsaChili"]["ingredients"][] = "1 pound bulk pork sausage";
   $recipes["MushroomSalsaChili"]["ingredients"][] = "2 cans, 16oz each, kidney beans, rinsed and drained";
@@ -63,10 +63,10 @@ $recipes["MushroomSalsaChili"]["directions"][] = Array();
       $recipes["MushroomSalsaChili"]["directions"][] = "Cook, covered, on low 8-10 hours or until flavors are blended.";
       $recipes["MushroomSalsaChili"]["directions"][] = "Add toppings of your choice and serve!";
 
-$recipes["WineMustard"][] = Array();
-$recipes["WineMustard"]["ingredients"][] = Array();
-$recipes["WineMustard"]["equipment"][] = Array();
-$recipes["WineMustard"]["directions"][] = Array();
+$recipes["WineMustard"] = Array();
+$recipes["WineMustard"]["ingredients"] = Array();
+$recipes["WineMustard"]["equipment"] = Array();
+$recipes["WineMustard"]["directions"] = Array();
 
   $recipes["WineMustard"]["ingredients"][] = "3/4 cup white sugar";
   $recipes["WineMustard"]["ingredients"][] = "3/4 cup ground dry mustard";
